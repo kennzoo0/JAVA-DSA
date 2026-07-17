@@ -12,7 +12,7 @@ class conversion {
             n=n/b;
 
             ans = ans + dig*p;
-            p = p*10;
+            p = p*b;
 
         }
         return ans; 
