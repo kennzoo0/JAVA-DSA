@@ -1,5 +1,7 @@
 import java.util.*;
 
+// reverse of a number
+
 public class reverse {
     public static void main(String[] args) {
 

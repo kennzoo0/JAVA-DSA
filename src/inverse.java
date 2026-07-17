@@ -1,5 +1,7 @@
 import java.util.*;
 
+// inverse of a number
+
 public class inverse {
 
     public static void main(String[] args) {

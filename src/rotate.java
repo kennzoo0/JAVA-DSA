@@ -1,5 +1,7 @@
 import java.util.*;
 
+// rotate of a number
+
 public class rotate {
     
     public static void main(String[] args){

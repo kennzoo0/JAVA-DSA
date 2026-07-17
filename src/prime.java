@@ -1,5 +1,7 @@
 import java.util.*;
 
+// prime number
+
 public class prime{
 
     public static void main(String[] args) {

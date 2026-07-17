@@ -1,6 +1,6 @@
 import java.util.*;
 
-
+// basics of java & loops
 
 public class MAIN {
     public static void main(String[] args) {
